@@ -1,0 +1,9 @@
+/* src/Header.css */
+.header {
+    background-color: #176ba3;
+    color: white;
+    padding: 10px;
+    text-align:center;
+    height: fit-content;
+  }
+  
